@@ -1,0 +1,4 @@
+selenium.open chrome
+selenium.runscript ‴javascript:confirm("confirm this!")‴
+delay 2
+selenium.alertaction accept
