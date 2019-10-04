@@ -1,0 +1,4 @@
+selenium.open chrome url facebook.com
+selenium.newtab g1ant.com
+delay 5
+selenium.closetab
