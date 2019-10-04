@@ -1,0 +1,5 @@
+program notepad
+program calc
+delay 2
+ui.setfocus ‴/ui[@name='Untitled - Notepad']‴
+keyboard ⋘ALT+F4⋙
