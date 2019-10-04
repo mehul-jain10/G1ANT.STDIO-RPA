@@ -1,0 +1,3 @@
+ocrabbyy.processfile ♥environment⟦USERPROFILE⟧\Desktop\document5.jpg result ♥file
+ocrabbyy.filter ♥file filter bold result ♥documentFiltered
+dialog ♥documentFiltered
