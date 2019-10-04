@@ -1,0 +1,1 @@
+xlsx.open C:\Documents\document.xlsx accessmode read createifnotexist true result ♥excelId1
