@@ -1,0 +1,15 @@
+♥host = yourmailhost
+♥login = yourlogin
+♥password = yourpassword
+♥from = 5/1/2018 8:30:52 AM
+
+mail.imap host ♥host port 993 login ♥login password ♥password sincedate ♥from todate ♥date onlyunreadmessages false markallmessagesasread false ignorecertificateerrors true result ♥messagesList
+
+foreach ♥element in ♥messagesList
+  ♥attachments = ♥element⟦attachments⟧
+  foreach ♥singleAttachment in ♥attachments
+    ♥path = ♥singleAttachment⟦path⟧
+    dialog ♥path
+    file.copy path ♥path destinationpath ♥environment⟦USERPROFILE⟧\Desktop\♥singleAttachment⟦name⟧‴
+  end
+end
