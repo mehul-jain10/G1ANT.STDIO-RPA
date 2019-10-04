@@ -1,0 +1,15 @@
+addon ocrtesseract version 4.100.19163.1246
+addon watson version 4.101.0.0
+addon ui version 4.101.0.0
+addon ocrgoogle version 4.101.0.0
+addon ocrabbyy version 4.101.0.0
+addon msoffice version 4.101.0.0
+addon iexplorer version 4.102.0.0
+addon googledocs version 4.101.0.0
+addon images version 4.101.0.0
+addon xlsx version 4.101.0.0
+addon net version 4.101.0.0
+addon selenium version 4.101.0.0
+addon core version 4.101.0.0
+
+<a class="gb_Hd gb_1 gb_kb" id="gb_70" href="https://accounts.google.com/ServiceLogin?hl=en&amp;passive=true&amp;continue=https://www.google.com/" target="_top">Sign in</a>
