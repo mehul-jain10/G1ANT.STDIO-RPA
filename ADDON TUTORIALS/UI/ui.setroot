@@ -1,0 +1,5 @@
+program notepad
+ui.setroot wpath ‴/ui[@name='Untitled - Notepad']‴
+ui.click ‴/ui[@id='MenuBar']/ui[@name='File']‴
+delay 2
+ui.click wpath ‴/descendant::ui[@name='Close']‴
