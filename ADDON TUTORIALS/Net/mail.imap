@@ -1,0 +1,1 @@
+mail.imap host ⟦text⟧ port ⟦integer⟧ login ⟦text⟧ password ⟦text⟧ folder ⟦text⟧ sincedate ⟦date⟧ todate ⟦date⟧ onlyunreadmessages ⟦bool⟧ markallmessagesasread ⟦bool⟧ ignorecertificateerrors ⟦bool⟧
