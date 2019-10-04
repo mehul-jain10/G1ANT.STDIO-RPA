@@ -1,0 +1,3 @@
+program notepad
+ui.getrectangle ‴/ui[@name='Untitled - Notepad']‴
+dialog ♥result
