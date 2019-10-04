@@ -1,0 +1,7 @@
+call loop
+
+procedure loop
+  for ♥i from 1 to 3
+    dialog ♥i
+  end
+end
