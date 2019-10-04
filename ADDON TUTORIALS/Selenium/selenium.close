@@ -1,0 +1,3 @@
+selenium.open firefox url facebook.com
+delay 3
+selenium.close
