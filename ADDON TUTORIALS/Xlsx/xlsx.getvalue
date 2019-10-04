@@ -1,0 +1,4 @@
+xlsx.open C:\Tests\Book1.xlsx
+xlsx.getvalue row 1 colname a
+dialog ♥result
+xlsx.close
