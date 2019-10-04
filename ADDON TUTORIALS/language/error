@@ -1,0 +1,6 @@
+waitfor.file ♥environment⟦USERPROFILE⟧\Desktop\test.txt timeout 200 errorcall errorproc errorresult ♥errresult
+
+procedure errorproc
+    - Add your own logging and error handling here
+    error ♥errresult
+end
