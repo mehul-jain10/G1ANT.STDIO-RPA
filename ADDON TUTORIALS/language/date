@@ -1,0 +1,5 @@
+♥myDate=⟦date⟧8.07.2018
+dialog ♥myDate
+dialog ♥myDate⟦year⟧
+dialog ♥myDate⟦month⟧
+dialog ♥myDate⟦day⟧
