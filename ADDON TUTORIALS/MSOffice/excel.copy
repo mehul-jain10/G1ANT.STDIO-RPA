@@ -1,0 +1,7 @@
+excel.open
+window ✱Excel
+keyboard ‴Remember, remember!⋘DOWN⋙the fifth of November⋘DOWN⋙The Gunpowder treason and plot‴
+excel.selectrange colname1 A row1 1 colname2 A row2 2
+excel.copy
+excel.selectrange colname1 B row1 2 colname2 B row2 3
+excel.paste
