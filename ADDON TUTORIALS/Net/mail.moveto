@@ -1,0 +1,6 @@
+♥yesterday = ⟦date:dd.MM.yyyy⟧13.01.2019
+mail.imap imap.gmail.com login mail@gmail.com password p@$$w0rD sincedate ♥yesterday todate ♥date onlyunreadmessages true markallmessagesasread false ignorecertificateerrors true result ♥list 
+
+foreach ♥element in ♥list
+  mail.moveto imap.gmail.com login mail@gmail.com password p@$$w0rD mail ♥element folder Spam
+end
