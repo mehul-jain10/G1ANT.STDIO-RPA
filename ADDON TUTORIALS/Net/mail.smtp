@@ -1,0 +1,2 @@
+list.create C:\photos\hello.jpg result ♥attachment
+mail.smtp imap.gmail.com login mail@gmail.com password p@$$w0rD from robot@gmail.com to hi@g1ant.com subject Test body ‴Hi, G1ANT!‴ attachments ♥attachment
